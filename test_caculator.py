@@ -5,6 +5,7 @@ Unit tests for caculator
 
 import caculator
 
+
 class TestCalculator:
 
     def test_addition(self):
