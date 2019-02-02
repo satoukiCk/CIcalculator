@@ -1,3 +1,6 @@
 *.pyc
 .coverage
 .vscode
+build
+*.egg-info
+dist
